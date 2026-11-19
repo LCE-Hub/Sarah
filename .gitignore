@@ -1,0 +1,4 @@
+/build
+/__cmake*
+/.xwin-cache
+/cafeberry
